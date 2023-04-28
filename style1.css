@@ -1,0 +1,46 @@
+body {
+    background-image: linear-gradient(to left, rgb(231, 185, 93), rgb(112, 204, 193));
+}
+
+.result {
+    display: none;
+    background-image: linear-gradient(to left, rgb(12, 66, 84), rgb(84, 10, 70));
+}
+
+#btn {
+    height: 35px;
+    text-align: center;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: linear-gradient(to left, rgb(103, 181, 188), rgb(205, 165, 145));
+}
+
+#resetbtn {
+    height: 35px;
+    border-radius: 10px;
+    background-image: linear-gradient(to left, rgb(125, 169, 193), rgb(176, 144, 104));
+
+}
+
+#searchtext {
+    display: inline-block;
+    border-radius: 20px;
+    background-image: linear-gradient(to left, rgb(46, 24, 132), rgb(75, 186, 233));
+}
+
+
+.card {
+    display: inline-block;
+    background-color: rgba(65, 222, 225, 0.896);
+    padding: 50px;
+    height: 150px;
+    width: 400px;
+
+}
+
+.card-body {
+    color: rgb(77, 91, 243);
+    text-align: center;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
